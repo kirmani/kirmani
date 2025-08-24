@@ -2,8 +2,8 @@
 
 I'm an AI research scientist. My goal is to make progress towards AGI and to work on long-term research that make people's lives better.
 
-- 🧠 I'm currently an research scientist at [Google DeepMind](https://www.deepmind.com/). I do machine learning research in vision, language, and robotics.
-- 🤖 I was previously an early research engineer at [The Everyday Robot Project](https://x.company/projects/everyday-robots/), which graduated from [X, The Moonshot Factory (formerly Google X)](https://x.company/).
+- 🧠 I'm currently at [OpenAI]([https://www.openai.com/)](https://openai.com/).
+- 🤖 I was previously a research scientst at [Google DeepMind](https://deepmind.google/). Before that, I was an early employee at [Google\[x\] Robotics](https://x.company/projects/everyday-robots/)).
 - 🏄 I enjoy California and the many outdoor opportunities that it offers.
 
 If any of this resonates with you, feel free to [reach out](mailto:sean@kirmani.ai). I'd love to chat. 🙂
