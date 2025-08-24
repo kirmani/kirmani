@@ -2,7 +2,7 @@
 
 I'm an AI research scientist. My goal is to make progress towards AGI and to work on long-term research that make people's lives better.
 
-- 🧠 I'm currently at [OpenAI]([https://www.openai.com/)](https://openai.com/).
+- 🧠 I'm currently at [OpenAI](https://www.openai.com/).
 - 🤖 I was previously a research scientst at [Google DeepMind](https://deepmind.google/). Before that, I was an early employee at [Google\[x\] Robotics](https://x.company/projects/everyday-robots/)).
 - 🏄 I enjoy California and the many outdoor opportunities that it offers.
 
