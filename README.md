@@ -6,6 +6,6 @@ I'm an AI research scientist. My goal is to make progress towards AGI and to wor
 - 🤖 I was previously a research scientist at [Google DeepMind](https://deepmind.google/). Before that, I worked on perception at [Google\[x\] Robotics](https://x.company/projects/everyday-robots/).
 - 🏄 I enjoy California and the many outdoor opportunities that it offers.
 
-If any of this resonates with you, feel free to [reach out](mailto:sean@kirmani.ai). I'd love to chat. 🙂
+If any of this resonates with you, feel free to [reach out](https://kirmani.ai/resume). I'd love to chat. 🙂
 
 [![Twitter URL](https://img.shields.io/twitter/url.svg?label=Follow%20%40SeanKirmani&style=social&url=https%3A%2F%2Ftwitter.com%2FSeanKirmani)](https://twitter.com/SeanKirmani)
